@@ -9,5 +9,5 @@ public class Springboot2EssentialsApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Springboot2EssentialsApplication.class, args);
 	}
-
+    //http://localhost:8080/anime/3?trace=true
 }
